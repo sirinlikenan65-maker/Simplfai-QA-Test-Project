@@ -1,4 +1,4 @@
-# Simplfai-QA-Test-Project
+
 # 🧪 Simplfai — QA Documentation
 
 > Manual QA testing documentation for the [Simplfai](https://smplifai-frontend.vercel.app/) web application.  
